@@ -1,0 +1,48 @@
+.icon-bar2 .fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 110px;
+    text-align: center;
+    text-decoration: none;
+    margin: 7px 5px;
+}
+
+  
+.icon-bar2  .fa:hover {
+      opacity: 0.7;
+}
+
+.icon-bar2.icon-bar2  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+.icon-bar2  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+.icon-bar2  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+.icon-bar2  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+ .icon-bar2 .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+ .icon-bar2 .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+.icon-bar2  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
